@@ -1,0 +1,24 @@
+.footer{
+    justify-content: center;
+    padding: 1% 5%;
+
+    background-color: #ddd;
+    border: .2px #aaa solid;
+}
+
+.main-div{
+    box-shadow: 1px 10px 50px #0003;
+    border-radius: 15px;
+    margin: 5%;
+    padding: 5%;
+}
+
+.up-button{
+    background-color: white;
+    margin: 1%;
+    padding: 1% 1.5%;
+    border: 2px #000 solid;
+    border-radius: 50%;
+    cursor: pointer;
+    position: absolute;
+}
