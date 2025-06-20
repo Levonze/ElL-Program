@@ -13,11 +13,11 @@ h3{
 }
 
 body {
-  font-family: 'Roboto', sans-serif; /* Основной текст */
+  font-family: 'Roboto', sans-serif;
 }
 
 h1, h2, h3 {
-  font-family: 'Orbitron', sans-serif; /* Футуристичные заголовки */
+  font-family: 'Orbitron', sans-serif;
 }
 
 .formula-header{
