@@ -4,7 +4,7 @@
 # Как пользоваться
 ## Со скачиванием
 
-1. Нажмите зеленую кнопку `<> Code` и выбирите `Download ZIP` в самом низу меню. Или нажмите [сюда](https://github.com/Levonze/ElL-Program/archive/refs/heads/Main.zip)
+1. Скачайте архив нажав [сюда](https://github.com/Levonze/ElL-Program/archive/refs/heads/Main.zip)
 2. Откройте архив и перенесите папку `ElL-Program-Main` на рабочий стол
 3. Откройте в папке файл `ElLProgram.exe`
 
