@@ -4,7 +4,7 @@
 # Как пользоваться
 ## Со скачиванием
 
-1. Нажмите зеленую кнопку ![image](https://github.com/user-attachments/assets/e6fcbcce-38c3-4d73-a6ff-b1bd5a9b2e41) и выбирите ![image](https://github.com/user-attachments/assets/d5183243-42a2-4dc0-814d-dd5be8b8c25e)
+1. Нажмите зеленую кнопку `<> Code` и выбирите ![image](https://github.com/user-attachments/assets/d5183243-42a2-4dc0-814d-dd5be8b8c25e)
 2. Откройте архив и перенесите папку `ElL-Program-Main` на рабочий стол
 3. Откройте в папке файл `ElLProgram.exe`
 
